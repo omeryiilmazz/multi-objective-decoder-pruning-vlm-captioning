@@ -8,7 +8,7 @@ authors:
   - family-names: Taskiran
     given-names: Murat
 year: 2026
-repository-code: "https://github.com/omeryilmazz/vlm-decoder-pruning-captioning"
+repository-code: "https://github.com/omeryiilmazz/multi-objective-decoder-pruning-vlm-captioning"
 abstract: "Multi-Objective Decoder Block Pruning for Image Captioning Across Vision-Language Models"
 keywords:
   - image captioning
