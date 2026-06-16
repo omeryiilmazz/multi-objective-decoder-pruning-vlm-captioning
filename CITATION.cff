@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript."
+title: "Multi-Objective Decoder Block Pruning for Image Captioning Across Vision-Language Models"
+type: software
+authors:
+  - family-names: Yilmaz
+    given-names: Omer
+  - family-names: Taskiran
+    given-names: Murat
+year: 2026
+repository-code: "https://github.com/omeryilmazz/vlm-decoder-pruning-captioning"
+abstract: "Multi-Objective Decoder Block Pruning for Image Captioning Across Vision-Language Models"
+keywords:
+  - image captioning
+  - vision-language models
+  - decoder pruning
+  - genetic algorithm
+  - multi-objective optimization
+license: MIT

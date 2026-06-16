@@ -1,0 +1,25 @@
+name: vlm-decoder-pruning
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - pillow
+  - tqdm
+  - matplotlib
+  - jupyter
+  - ipykernel
+  - pip:
+      - torch
+      - transformers
+      - accelerate
+      - huggingface_hub
+      - safetensors
+      - datasets
+      - pycocotools
+      - git+https://github.com/salaniz/pycocoevalcap.git
+      - pymoo

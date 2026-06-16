@@ -1,0 +1,1208 @@
+{
+  "name": "proxy_coco_200",
+  "source": "COCO val2014 subset",
+  "n_images": 200,
+  "seed": 42,
+  "images": [
+    {
+      "image_id": 3156,
+      "file_name": "COCO_val2014_000000003156.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000003156.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 3832,
+      "file_name": "COCO_val2014_000000003832.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000003832.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 6896,
+      "file_name": "COCO_val2014_000000006896.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000006896.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 9801,
+      "file_name": "COCO_val2014_000000009801.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000009801.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 16491,
+      "file_name": "COCO_val2014_000000016491.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000016491.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 17927,
+      "file_name": "COCO_val2014_000000017927.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000017927.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 19443,
+      "file_name": "COCO_val2014_000000019443.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000019443.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 29056,
+      "file_name": "COCO_val2014_000000029056.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000029056.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 33645,
+      "file_name": "COCO_val2014_000000033645.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000033645.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 33753,
+      "file_name": "COCO_val2014_000000033753.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000033753.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 39152,
+      "file_name": "COCO_val2014_000000039152.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000039152.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 42190,
+      "file_name": "COCO_val2014_000000042190.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000042190.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 43657,
+      "file_name": "COCO_val2014_000000043657.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000043657.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 45108,
+      "file_name": "COCO_val2014_000000045108.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000045108.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 46331,
+      "file_name": "COCO_val2014_000000046331.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000046331.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 46432,
+      "file_name": "COCO_val2014_000000046432.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000046432.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 46433,
+      "file_name": "COCO_val2014_000000046433.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000046433.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 46497,
+      "file_name": "COCO_val2014_000000046497.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000046497.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 47632,
+      "file_name": "COCO_val2014_000000047632.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000047632.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 48504,
+      "file_name": "COCO_val2014_000000048504.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000048504.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 52591,
+      "file_name": "COCO_val2014_000000052591.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000052591.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 64710,
+      "file_name": "COCO_val2014_000000064710.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000064710.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 71687,
+      "file_name": "COCO_val2014_000000071687.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000071687.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 72507,
+      "file_name": "COCO_val2014_000000072507.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000072507.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 74460,
+      "file_name": "COCO_val2014_000000074460.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000074460.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 78565,
+      "file_name": "COCO_val2014_000000078565.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000078565.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 88854,
+      "file_name": "COCO_val2014_000000088854.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000088854.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 91488,
+      "file_name": "COCO_val2014_000000091488.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000091488.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 92488,
+      "file_name": "COCO_val2014_000000092488.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000092488.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 94951,
+      "file_name": "COCO_val2014_000000094951.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000094951.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 96832,
+      "file_name": "COCO_val2014_000000096832.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000096832.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 97667,
+      "file_name": "COCO_val2014_000000097667.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000097667.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 99794,
+      "file_name": "COCO_val2014_000000099794.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000099794.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 103485,
+      "file_name": "COCO_val2014_000000103485.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000103485.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 106048,
+      "file_name": "COCO_val2014_000000106048.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000106048.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 107216,
+      "file_name": "COCO_val2014_000000107216.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000107216.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 108495,
+      "file_name": "COCO_val2014_000000108495.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000108495.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 110026,
+      "file_name": "COCO_val2014_000000110026.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000110026.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 110435,
+      "file_name": "COCO_val2014_000000110435.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000110435.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 110630,
+      "file_name": "COCO_val2014_000000110630.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000110630.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 111830,
+      "file_name": "COCO_val2014_000000111830.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000111830.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 122861,
+      "file_name": "COCO_val2014_000000122861.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000122861.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 123836,
+      "file_name": "COCO_val2014_000000123836.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000123836.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 125071,
+      "file_name": "COCO_val2014_000000125071.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000125071.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 130225,
+      "file_name": "COCO_val2014_000000130225.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000130225.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 130524,
+      "file_name": "COCO_val2014_000000130524.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000130524.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 130909,
+      "file_name": "COCO_val2014_000000130909.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000130909.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 133567,
+      "file_name": "COCO_val2014_000000133567.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000133567.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 137844,
+      "file_name": "COCO_val2014_000000137844.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000137844.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 140076,
+      "file_name": "COCO_val2014_000000140076.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000140076.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 152252,
+      "file_name": "COCO_val2014_000000152252.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000152252.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 157617,
+      "file_name": "COCO_val2014_000000157617.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000157617.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 157726,
+      "file_name": "COCO_val2014_000000157726.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000157726.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 159742,
+      "file_name": "COCO_val2014_000000159742.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000159742.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 161231,
+      "file_name": "COCO_val2014_000000161231.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000161231.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 164104,
+      "file_name": "COCO_val2014_000000164104.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000164104.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 166478,
+      "file_name": "COCO_val2014_000000166478.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000166478.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 176466,
+      "file_name": "COCO_val2014_000000176466.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000176466.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 177938,
+      "file_name": "COCO_val2014_000000177938.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000177938.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 178795,
+      "file_name": "COCO_val2014_000000178795.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000178795.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 184324,
+      "file_name": "COCO_val2014_000000184324.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000184324.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 185476,
+      "file_name": "COCO_val2014_000000185476.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000185476.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 185781,
+      "file_name": "COCO_val2014_000000185781.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000185781.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 192932,
+      "file_name": "COCO_val2014_000000192932.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000192932.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 193494,
+      "file_name": "COCO_val2014_000000193494.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000193494.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 194746,
+      "file_name": "COCO_val2014_000000194746.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000194746.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 195275,
+      "file_name": "COCO_val2014_000000195275.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000195275.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 195800,
+      "file_name": "COCO_val2014_000000195800.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000195800.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 196490,
+      "file_name": "COCO_val2014_000000196490.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000196490.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 205866,
+      "file_name": "COCO_val2014_000000205866.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000205866.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 206851,
+      "file_name": "COCO_val2014_000000206851.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000206851.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 207205,
+      "file_name": "COCO_val2014_000000207205.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000207205.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 213224,
+      "file_name": "COCO_val2014_000000213224.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000213224.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 214527,
+      "file_name": "COCO_val2014_000000214527.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000214527.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 219315,
+      "file_name": "COCO_val2014_000000219315.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000219315.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 221232,
+      "file_name": "COCO_val2014_000000221232.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000221232.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 224757,
+      "file_name": "COCO_val2014_000000224757.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000224757.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 225494,
+      "file_name": "COCO_val2014_000000225494.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000225494.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 226629,
+      "file_name": "COCO_val2014_000000226629.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000226629.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 227851,
+      "file_name": "COCO_val2014_000000227851.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000227851.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 229014,
+      "file_name": "COCO_val2014_000000229014.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000229014.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 229267,
+      "file_name": "COCO_val2014_000000229267.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000229267.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 229688,
+      "file_name": "COCO_val2014_000000229688.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000229688.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 230679,
+      "file_name": "COCO_val2014_000000230679.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000230679.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 231691,
+      "file_name": "COCO_val2014_000000231691.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000231691.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 233376,
+      "file_name": "COCO_val2014_000000233376.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000233376.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 233830,
+      "file_name": "COCO_val2014_000000233830.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000233830.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 236784,
+      "file_name": "COCO_val2014_000000236784.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000236784.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 236837,
+      "file_name": "COCO_val2014_000000236837.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000236837.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 241503,
+      "file_name": "COCO_val2014_000000241503.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000241503.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 246649,
+      "file_name": "COCO_val2014_000000246649.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000246649.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 251379,
+      "file_name": "COCO_val2014_000000251379.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000251379.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 254983,
+      "file_name": "COCO_val2014_000000254983.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000254983.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 267861,
+      "file_name": "COCO_val2014_000000267861.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000267861.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 269254,
+      "file_name": "COCO_val2014_000000269254.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000269254.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 271471,
+      "file_name": "COCO_val2014_000000271471.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000271471.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 275210,
+      "file_name": "COCO_val2014_000000275210.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000275210.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 277289,
+      "file_name": "COCO_val2014_000000277289.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000277289.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 279621,
+      "file_name": "COCO_val2014_000000279621.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000279621.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 280705,
+      "file_name": "COCO_val2014_000000280705.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000280705.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 281019,
+      "file_name": "COCO_val2014_000000281019.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000281019.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 281972,
+      "file_name": "COCO_val2014_000000281972.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000281972.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 287636,
+      "file_name": "COCO_val2014_000000287636.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000287636.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 290570,
+      "file_name": "COCO_val2014_000000290570.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000290570.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 291664,
+      "file_name": "COCO_val2014_000000291664.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000291664.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 292663,
+      "file_name": "COCO_val2014_000000292663.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000292663.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 297372,
+      "file_name": "COCO_val2014_000000297372.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000297372.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 301467,
+      "file_name": "COCO_val2014_000000301467.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000301467.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 301817,
+      "file_name": "COCO_val2014_000000301817.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000301817.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 302030,
+      "file_name": "COCO_val2014_000000302030.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000302030.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 307790,
+      "file_name": "COCO_val2014_000000307790.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000307790.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 315841,
+      "file_name": "COCO_val2014_000000315841.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000315841.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 315864,
+      "file_name": "COCO_val2014_000000315864.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000315864.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 320425,
+      "file_name": "COCO_val2014_000000320425.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000320425.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 322175,
+      "file_name": "COCO_val2014_000000322175.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000322175.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 322222,
+      "file_name": "COCO_val2014_000000322222.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000322222.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 322586,
+      "file_name": "COCO_val2014_000000322586.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000322586.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 329717,
+      "file_name": "COCO_val2014_000000329717.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000329717.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 332545,
+      "file_name": "COCO_val2014_000000332545.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000332545.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 333156,
+      "file_name": "COCO_val2014_000000333156.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000333156.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 340637,
+      "file_name": "COCO_val2014_000000340637.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000340637.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 340642,
+      "file_name": "COCO_val2014_000000340642.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000340642.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 346140,
+      "file_name": "COCO_val2014_000000346140.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000346140.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 347172,
+      "file_name": "COCO_val2014_000000347172.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000347172.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 357096,
+      "file_name": "COCO_val2014_000000357096.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000357096.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 360730,
+      "file_name": "COCO_val2014_000000360730.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000360730.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 360762,
+      "file_name": "COCO_val2014_000000360762.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000360762.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 364340,
+      "file_name": "COCO_val2014_000000364340.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000364340.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 374677,
+      "file_name": "COCO_val2014_000000374677.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000374677.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 375407,
+      "file_name": "COCO_val2014_000000375407.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000375407.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 376236,
+      "file_name": "COCO_val2014_000000376236.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000376236.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 382214,
+      "file_name": "COCO_val2014_000000382214.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000382214.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 383443,
+      "file_name": "COCO_val2014_000000383443.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000383443.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 386164,
+      "file_name": "COCO_val2014_000000386164.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000386164.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 399284,
+      "file_name": "COCO_val2014_000000399284.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000399284.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 406395,
+      "file_name": "COCO_val2014_000000406395.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000406395.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 408621,
+      "file_name": "COCO_val2014_000000408621.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000408621.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 409667,
+      "file_name": "COCO_val2014_000000409667.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000409667.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 412184,
+      "file_name": "COCO_val2014_000000412184.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000412184.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 412604,
+      "file_name": "COCO_val2014_000000412604.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000412604.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 414261,
+      "file_name": "COCO_val2014_000000414261.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000414261.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 417281,
+      "file_name": "COCO_val2014_000000417281.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000417281.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 427401,
+      "file_name": "COCO_val2014_000000427401.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000427401.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 427646,
+      "file_name": "COCO_val2014_000000427646.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000427646.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 429593,
+      "file_name": "COCO_val2014_000000429593.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000429593.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 432570,
+      "file_name": "COCO_val2014_000000432570.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000432570.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 432799,
+      "file_name": "COCO_val2014_000000432799.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000432799.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 433574,
+      "file_name": "COCO_val2014_000000433574.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000433574.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 436467,
+      "file_name": "COCO_val2014_000000436467.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000436467.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 436676,
+      "file_name": "COCO_val2014_000000436676.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000436676.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 441496,
+      "file_name": "COCO_val2014_000000441496.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000441496.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 442214,
+      "file_name": "COCO_val2014_000000442214.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000442214.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 443537,
+      "file_name": "COCO_val2014_000000443537.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000443537.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 444302,
+      "file_name": "COCO_val2014_000000444302.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000444302.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 448795,
+      "file_name": "COCO_val2014_000000448795.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000448795.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 449485,
+      "file_name": "COCO_val2014_000000449485.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000449485.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 452113,
+      "file_name": "COCO_val2014_000000452113.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000452113.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 454444,
+      "file_name": "COCO_val2014_000000454444.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000454444.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 457054,
+      "file_name": "COCO_val2014_000000457054.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000457054.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 462814,
+      "file_name": "COCO_val2014_000000462814.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000462814.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 464286,
+      "file_name": "COCO_val2014_000000464286.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000464286.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 466156,
+      "file_name": "COCO_val2014_000000466156.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000466156.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 468197,
+      "file_name": "COCO_val2014_000000468197.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000468197.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 471179,
+      "file_name": "COCO_val2014_000000471179.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000471179.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 480747,
+      "file_name": "COCO_val2014_000000480747.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000480747.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 489611,
+      "file_name": "COCO_val2014_000000489611.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000489611.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 490643,
+      "file_name": "COCO_val2014_000000490643.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000490643.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 494608,
+      "file_name": "COCO_val2014_000000494608.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000494608.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 494957,
+      "file_name": "COCO_val2014_000000494957.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000494957.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 500211,
+      "file_name": "COCO_val2014_000000500211.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000500211.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 503980,
+      "file_name": "COCO_val2014_000000503980.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000503980.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 523194,
+      "file_name": "COCO_val2014_000000523194.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000523194.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 525272,
+      "file_name": "COCO_val2014_000000525272.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000525272.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 526414,
+      "file_name": "COCO_val2014_000000526414.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000526414.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 526806,
+      "file_name": "COCO_val2014_000000526806.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000526806.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 529256,
+      "file_name": "COCO_val2014_000000529256.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000529256.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 531622,
+      "file_name": "COCO_val2014_000000531622.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000531622.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 532403,
+      "file_name": "COCO_val2014_000000532403.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000532403.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 533493,
+      "file_name": "COCO_val2014_000000533493.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000533493.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 535602,
+      "file_name": "COCO_val2014_000000535602.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000535602.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 536725,
+      "file_name": "COCO_val2014_000000536725.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000536725.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 537991,
+      "file_name": "COCO_val2014_000000537991.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000537991.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 539904,
+      "file_name": "COCO_val2014_000000539904.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000539904.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 544365,
+      "file_name": "COCO_val2014_000000544365.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000544365.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 544975,
+      "file_name": "COCO_val2014_000000544975.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000544975.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 545007,
+      "file_name": "COCO_val2014_000000545007.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000545007.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 546095,
+      "file_name": "COCO_val2014_000000546095.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000546095.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 552503,
+      "file_name": "COCO_val2014_000000552503.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000552503.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 553776,
+      "file_name": "COCO_val2014_000000553776.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000553776.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 554595,
+      "file_name": "COCO_val2014_000000554595.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000554595.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 556608,
+      "file_name": "COCO_val2014_000000556608.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000556608.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 557346,
+      "file_name": "COCO_val2014_000000557346.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000557346.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 558406,
+      "file_name": "COCO_val2014_000000558406.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000558406.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 559047,
+      "file_name": "COCO_val2014_000000559047.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000559047.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 562356,
+      "file_name": "COCO_val2014_000000562356.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000562356.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 567565,
+      "file_name": "COCO_val2014_000000567565.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000567565.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 570521,
+      "file_name": "COCO_val2014_000000570521.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000570521.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 571804,
+      "file_name": "COCO_val2014_000000571804.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000571804.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 575194,
+      "file_name": "COCO_val2014_000000575194.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000575194.jpg",
+      "num_reference_captions": 5
+    },
+    {
+      "image_id": 577160,
+      "file_name": "COCO_val2014_000000577160.jpg",
+      "relative_path": "data/proxy_coco_200/images/COCO_val2014_000000577160.jpg",
+      "num_reference_captions": 5
+    }
+  ]
+}

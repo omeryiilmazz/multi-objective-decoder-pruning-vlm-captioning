@@ -1,0 +1,22 @@
+{
+  "label": "mid",
+  "index": 2,
+  "param_drop_rate": 0.06489666568636114,
+  "proxy_cider": 1.0190387957818021,
+  "final_cider": 1.2984131177582,
+  "final_bleu4": 0.3711093119047652,
+  "chromosome": [
+    true,
+    true,
+    true,
+    false,
+    false,
+    true,
+    true,
+    true,
+    false,
+    true,
+    true,
+    true
+  ]
+}

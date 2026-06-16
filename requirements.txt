@@ -1,0 +1,26 @@
+# Core
+torch
+transformers
+accelerate
+huggingface_hub
+safetensors
+
+# Data and utilities
+numpy
+pandas
+Pillow
+tqdm
+requests
+datasets
+
+# Evaluation
+pycocotools
+git+https://github.com/salaniz/pycocoevalcap.git
+
+# Optimization
+pymoo
+
+# Notebooks and visualization
+jupyter
+ipykernel
+matplotlib

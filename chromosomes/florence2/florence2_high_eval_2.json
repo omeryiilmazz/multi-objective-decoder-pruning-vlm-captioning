@@ -1,0 +1,22 @@
+{
+  "label": "high",
+  "index": 4,
+  "param_drop_rate": 0.08652888758181485,
+  "proxy_cider": 0.8986798442360318,
+  "final_cider": 1.0797689911297987,
+  "final_bleu4": 0.3151245304021157,
+  "chromosome": [
+    true,
+    true,
+    true,
+    false,
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+  ]
+}

@@ -1,0 +1,2206 @@
+{
+  "seed": 42,
+  "n_samples": 200,
+  "images": [
+    {
+      "image_id": 436467,
+      "filename": "COCO_val2014_000000436467.jpg",
+      "captions": [
+        "A pan filled with veggies and a block of butter.",
+        "Butter or cheese on top of some vegetables in a pan.",
+        "Spoon in a bowl of chopped vegetables with butter",
+        "A pan with butter and other ingredients for a dish.",
+        "Pot with variety of chopped vegetables, big chunk of butter and spoon."
+      ]
+    },
+    {
+      "image_id": 33645,
+      "filename": "COCO_val2014_000000033645.jpg",
+      "captions": [
+        "A little girl holding a red frisbee standing on a lush green field.",
+        "A little girl in the grass wearing sunglasses holding a frisbee.",
+        "A young girl is holding a Frisbee in the grass",
+        "Young girl in sunglasses standing in a lawn, holding a frisbee ",
+        "A girl in blue shit and shorts holding a frisbee in grassy area."
+      ]
+    },
+    {
+      "image_id": 503980,
+      "filename": "COCO_val2014_000000503980.jpg",
+      "captions": [
+        "a person holding a clear piece of glass or plastic",
+        "A man holding a large piece of glass outside by a truck ",
+        "a couple of men are loading a truck with glass",
+        "Many men work together to put objects in a truck. ",
+        "A man holding glass near a pick up truck on the street. "
+      ]
+    },
+    {
+      "image_id": 553776,
+      "filename": "COCO_val2014_000000553776.jpg",
+      "captions": [
+        "A man rides a large motorcycle on a freeway.",
+        "A man riding a motorcycle in overcast weather",
+        "A man rides a yellow motorcycle down a street.",
+        "A photo taken from a vehicle at a man on a yellow motorcycle.",
+        "Man with yellow helmet riding a yellow motorcycle"
+      ]
+    },
+    {
+      "image_id": 302030,
+      "filename": "COCO_val2014_000000302030.jpg",
+      "captions": [
+        "A picture of a cluttered home office desk.",
+        "Laptop computer on long desk with assorted paperwork.",
+        "In home desk, covered with papers and two computers.",
+        "A white desk is covered with papers and has a silver lap top on it.",
+        "The desk with a laptop has papers strewn all over it."
+      ]
+    },
+    {
+      "image_id": 159742,
+      "filename": "COCO_val2014_000000159742.jpg",
+      "captions": [
+        "a giraffe is standing by a tree line",
+        "A large giraffe standing next to a forest.",
+        "An adult giraffe is staring at the camera.",
+        "A close up view of a giraffe's face.",
+        "A giraffe that is standing near the trees."
+      ]
+    },
+    {
+      "image_id": 552503,
+      "filename": "COCO_val2014_000000552503.jpg",
+      "captions": [
+        "Three pots of bright colorful food cooking on a black stove top.",
+        "A group of big metal pots filled with colorful food.",
+        "A black stove with several pots of food.",
+        "A group of different types of pots on a stove.",
+        "Three pans filled with food sitting on a stove top."
+      ]
+    },
+    {
+      "image_id": 111830,
+      "filename": "COCO_val2014_000000111830.jpg",
+      "captions": [
+        "An airplane can be seen traveling through the clouds.",
+        "a plane is flying through some dark clouds",
+        "In layers of clouds flies a lone airplane.",
+        "a jet is flying across a very cloudy sky",
+        "A passenger jet that is flying in some clouds."
+      ]
+    },
+    {
+      "image_id": 333156,
+      "filename": "COCO_val2014_000000333156.jpg",
+      "captions": [
+        "A piece of partially-eaten cake sits on a paper plate.",
+        "A desert topped with gummy bears sits on a yellow and orange plate.",
+        "a close up of a plate of food with a fork",
+        "A slice of chocolate cake with dark chocolate glaze.",
+        "A slice of chocolate cake with dark chocolate icing."
+      ]
+    },
+    {
+      "image_id": 320425,
+      "filename": "COCO_val2014_000000320425.jpg",
+      "captions": [
+        "A group of giraffe standing next to each other on a dirt field.",
+        "Ten giraffes loitering around a building out in the day.",
+        "A giraffe and its herd standing in an enclosure.",
+        "a couple of giraffes are standing in a field",
+        "A group of giraffes are gathered together in their enclosure"
+      ]
+    },
+    {
+      "image_id": 94951,
+      "filename": "COCO_val2014_000000094951.jpg",
+      "captions": [
+        "A yellow fire hydrant with a wet paint sign.",
+        "A FRESHLY PAINTED FIRE HYDRANT WITH A DEPICTING SIGN",
+        "A fire hydrant that has a sign on it.",
+        "a fire hydrant on a side walk near a street ",
+        "A fire hydrant is standing by a city street."
+      ]
+    },
+    {
+      "image_id": 577160,
+      "filename": "COCO_val2014_000000577160.jpg",
+      "captions": [
+        "A lovely dinner and a bottle of wine",
+        "A table with a bottle of wine and a plate of food including a sweet potato and pineapple salad.",
+        "A very fancy looking dish of food on a dining table.",
+        "A sandwich with various toppings next to a sweet potato.",
+        "a couple of big slabs of meat with foot on top of them"
+      ]
+    },
+    {
+      "image_id": 246649,
+      "filename": "COCO_val2014_000000246649.jpg",
+      "captions": [
+        "A shirtless man playing tennis on a blue court.",
+        "an image of a shirtless man hitting tennis racket",
+        "A man is standing on a court with a tennis racket.",
+        "A man on a court swinging a tennis racket.",
+        "This man is playing tennis without a shirt."
+      ]
+    },
+    {
+      "image_id": 433574,
+      "filename": "COCO_val2014_000000433574.jpg",
+      "captions": [
+        "A person in a wheelchair plays music on a CD player while talking on a wireless telephone.",
+        "A man in a wheelchair holding a phone to his ear, in front of a CD player and CD's on the side.",
+        "A man sitting at a table in a wheelchair while on a phone. ",
+        "A man sitting in front of a Ghetto Blaster while talking on a phone.",
+        "a person sitting in a hair talking on a cell phone "
+      ]
+    },
+    {
+      "image_id": 46331,
+      "filename": "COCO_val2014_000000046331.jpg",
+      "captions": [
+        "A pitcher getting ready to throw pitch at a game.",
+        "a pitcher getting ready for a baseball game ",
+        "A man holding a baseball wearing a catchers mitt.",
+        "A baseball player is posed for throwing a ball during a game.",
+        "a man throwing a tennis ball and others watching the game"
+      ]
+    },
+    {
+      "image_id": 494957,
+      "filename": "COCO_val2014_000000494957.jpg",
+      "captions": [
+        "A double decker bus parked in a bus station next to a baby stroller.",
+        "A double decker hybrid bus is in a warehouse.",
+        "A parked Electric Hybrid city bus in a bus storage warehouse. ",
+        "A stroller sitting in front of a double-Decker bus",
+        "An electric double decker bus with a wheelchair in front."
+      ]
+    },
+    {
+      "image_id": 229267,
+      "filename": "COCO_val2014_000000229267.jpg",
+      "captions": [
+        "A few rows of tables with umbrellas on top of them.",
+        "Rows of outdoor dining tables sit empty in front of a mixed use building.",
+        "Open area food court with colorful umbrellas. ",
+        "A bunch of tables outside of a building.",
+        "A lot of tables that are by a building."
+      ]
+    },
+    {
+      "image_id": 360762,
+      "filename": "COCO_val2014_000000360762.jpg",
+      "captions": [
+        "A basket with a stuffed teddy bear hangs outside.",
+        "A teddy bear in a basket next to a small soccer ball.",
+        "A teddy bear with a ball hanging in a basket.",
+        "A teddy bear is stuffed in a basket that hangs on a rail. ",
+        "A stuffed animal teddy bear in a basket."
+      ]
+    },
+    {
+      "image_id": 88854,
+      "filename": "COCO_val2014_000000088854.jpg",
+      "captions": [
+        "Two cross country skiers heading onto the trail",
+        "Two guys cross country ski in a race",
+        "Skiers on their skis ride on the slope while others watch.",
+        "To skiers competing on a ski trail in a competition.",
+        "Spectators watch cross country ski competitors fly by "
+      ]
+    },
+    {
+      "image_id": 291664,
+      "filename": "COCO_val2014_000000291664.jpg",
+      "captions": [
+        "a brown dog with a collar sniffing a red fire hydrant",
+        "A dog sniffs the base of a fire hydrant.",
+        "a dog sniffing a red fire hydrant near grass",
+        "An old dog sniffs a red fire hydrant.",
+        "A dog standing next to a fire hydrant on a green grass covered park."
+      ]
+    },
+    {
+      "image_id": 526806,
+      "filename": "COCO_val2014_000000526806.jpg",
+      "captions": [
+        "Two train cars sitting on the tracks with power lines in the backround.",
+        "a red and a white train cab on a rusty train track ",
+        "Two trains that are sitting on train tracks.",
+        "A red train attached a white passenger train on a railway track.",
+        "The red passenger train car is next to a white car."
+      ]
+    },
+    {
+      "image_id": 267861,
+      "filename": "COCO_val2014_000000267861.jpg",
+      "captions": [
+        "A red motorcycle with a back seat parked on the side of a road.",
+        "A tricycle is shown on the side of the road.",
+        "There is a nice tricycle motrocycle parked on a sidewalk",
+        "A red motorcycle with three wheels and two seats.",
+        "a close up of a three wheeled motor cycle"
+      ]
+    },
+    {
+      "image_id": 536725,
+      "filename": "COCO_val2014_000000536725.jpg",
+      "captions": [
+        "A man walking behind a row of parked cars holding an umbrella.",
+        "It is a good thing he has his umbrella while walking in the parking lot.",
+        "A solitary man walks through a crowded parking lot with his striped umbrella.",
+        "A man holding a white and black umbrella in a large parking lot.",
+        "A man with an umbrella walks along a row of cars. "
+      ]
+    },
+    {
+      "image_id": 558406,
+      "filename": "COCO_val2014_000000558406.jpg",
+      "captions": [
+        "A person on skis is in the air.",
+        "There is a person jumping in the air on a pair of skis.",
+        "The person gets airborne while skiing down the slope. ",
+        "The skier is doing a trick in the air.",
+        "A skier is mid air on the slopes."
+      ]
+    },
+    {
+      "image_id": 545007,
+      "filename": "COCO_val2014_000000545007.jpg",
+      "captions": [
+        "A clock tower with a statue on top of it",
+        "A statue holding a glass light stands atop an old clock.",
+        "A clock with a statue of a woman on top.",
+        "a statue is standing on top of a clock on a pole",
+        "A statue holding a lamp on top of a clock."
+      ]
+    },
+    {
+      "image_id": 466156,
+      "filename": "COCO_val2014_000000466156.jpg",
+      "captions": [
+        "The striped cat is sitting on top of the car.",
+        "a cat sitting on a car engine with the hood up",
+        "someone opened a hood on a car and he cat jumped up on the edge",
+        "Black cat sitting on the engine of a black car. ",
+        "A gray cat is walking next to a truck."
+      ]
+    },
+    {
+      "image_id": 427401,
+      "filename": "COCO_val2014_000000427401.jpg",
+      "captions": [
+        "A woman with a umbrella on a city street.",
+        "A woman is crossing the street holding an umbrella.",
+        "A woman crossing the street with an umbrella.",
+        "A woman is holding an umbrella over her head as she walks across the street.",
+        "A black and white photo of a woman walking down a street carrying an umbrella."
+      ]
+    },
+    {
+      "image_id": 329717,
+      "filename": "COCO_val2014_000000329717.jpg",
+      "captions": [
+        "Young boy sitting on top of a briefcase",
+        "A young baby sits on top of a briefcase.",
+        "A little boy sitting on a suitcase on the floor.",
+        "A small child sitting on top of a briefcase.  ",
+        "A toddler boy is sitting on a brief case."
+      ]
+    },
+    {
+      "image_id": 346140,
+      "filename": "COCO_val2014_000000346140.jpg",
+      "captions": [
+        "Woman holding up a small boy on a snow trail. ",
+        "A woman and a child are snow skiing.",
+        "an older person and a younger person riding skis",
+        "A snowboarder and her child in the snow.",
+        "A parent skiing down the slopes with their child."
+      ]
+    },
+    {
+      "image_id": 184324,
+      "filename": "COCO_val2014_000000184324.jpg",
+      "captions": [
+        "A group of people walking across a busy city street.",
+        "A fish eye lens shows the corner of a busy city street with bikes, people and buildings.",
+        "a number of people and cars on a city street",
+        "An oddly taken photo of some buildings and shops.",
+        "A picture of a city intersection with period buildings and store fronts. "
+      ]
+    },
+    {
+      "image_id": 332545,
+      "filename": "COCO_val2014_000000332545.jpg",
+      "captions": [
+        "An empty intersection of a colorful urban area.",
+        "A building under construction and one painted bright colors.",
+        "A parking meter sign next to a  road with tall buildings.",
+        "A bus lane is empty near some tall buildings.",
+        "A variety of street signs at a street corner."
+      ]
+    },
+    {
+      "image_id": 471179,
+      "filename": "COCO_val2014_000000471179.jpg",
+      "captions": [
+        "A herd of black cattle standing next to each other.",
+        "A group of cows behind a metal wire fence.",
+        "A herd of black cows all standing together at the fence. ",
+        "several cows with ear tags standing in front of a fence",
+        "A herd of cattle standing by a fence in a field."
+      ]
+    },
+    {
+      "image_id": 161231,
+      "filename": "COCO_val2014_000000161231.jpg",
+      "captions": [
+        "A couple of large long trains on a track.",
+        "Two trains sitting inside of a train station.",
+        "two trains sitting in a station with people approaching them ",
+        "a couple of trains that are parked next to each other",
+        "Two metro trains are parked beside each other."
+      ]
+    },
+    {
+      "image_id": 406395,
+      "filename": "COCO_val2014_000000406395.jpg",
+      "captions": [
+        "A cat wearing a neck tie laying on top of a pillow.",
+        "A cat is wearing a suit tie with a mad expression.",
+        "a cat sits in a bed with a tie on ",
+        "A cat curled up on a blanket wearing a small tie.",
+        "A cat wearing a tie, laying on a large soft surface."
+      ]
+    },
+    {
+      "image_id": 562356,
+      "filename": "COCO_val2014_000000562356.jpg",
+      "captions": [
+        "A motor cycle procession down a wet street.",
+        "A large group of motorcycle riders driving down a street together in a long line.",
+        "Group of motorcycle riders in black riding on the street together. ",
+        "A group of motorcyclists traveling together on a cloudy day.",
+        "Long line of motorcycle riders passing cars parked on the road."
+      ]
+    },
+    {
+      "image_id": 74460,
+      "filename": "COCO_val2014_000000074460.jpg",
+      "captions": [
+        "a couple of horses grazing on some green grass",
+        "A couple of horses standing on top of a grass covered field.",
+        "Two horses eating grass in the middle of a field. ",
+        "Two gray colored horses grazing in a field of short cut grass, with trees and a white fence in the background.",
+        "Two horses grazing together in a field "
+      ]
+    },
+    {
+      "image_id": 322222,
+      "filename": "COCO_val2014_000000322222.jpg",
+      "captions": [
+        "The man is playing tennis on the court. ",
+        "A man in white is playing tennis on a lime green court.",
+        "The tennis player is about to hit a ball with his racket.",
+        "A man in white shirt and shorts playing tennis.",
+        "a person hitting a tennis ball with a tennis racket on a tennis court."
+      ]
+    },
+    {
+      "image_id": 122861,
+      "filename": "COCO_val2014_000000122861.jpg",
+      "captions": [
+        "a couple of people that are surfing in some water",
+        "Surfers on surfboards are riding a wave together.",
+        "Several people ride surfboards in the ocean waves.",
+        "Surfers braves the waves on the choppy blue ocean.",
+        "The people are surfing the ways on the water."
+      ]
+    },
+    {
+      "image_id": 457054,
+      "filename": "COCO_val2014_000000457054.jpg",
+      "captions": [
+        "A man driving a car across an airport runway.",
+        "two airport workers transferring cargo from one plane to another",
+        "people are transporting something to another area at the airport",
+        "A worker driving a cart pulling a trailer loaded with cargo.",
+        "Airport vehicles carry items and other equipment to parked planes"
+      ]
+    },
+    {
+      "image_id": 297372,
+      "filename": "COCO_val2014_000000297372.jpg",
+      "captions": [
+        "A small brown dog wearing a leash next to a bike.",
+        "The dog is wearing a leash and is standing by the door.",
+        "A dog on a leash sniffing at a door.",
+        "A little dog on a leash is sniffing at a door.",
+        "A dog on a leash standing at a doorway."
+      ]
+    },
+    {
+      "image_id": 414261,
+      "filename": "COCO_val2014_000000414261.jpg",
+      "captions": [
+        "Baby bear climbing large rock near pine tree.",
+        "A baby bear that is laying on a rock.",
+        "some kind of animal that is on a rock",
+        "A large black bear laying on top of a large rock.",
+        "A bear cub struggles to scale a boulder."
+      ]
+    },
+    {
+      "image_id": 33753,
+      "filename": "COCO_val2014_000000033753.jpg",
+      "captions": [
+        "A wooden park bench with a remote control on top of it.",
+        "A remote control sitting on a park bench.",
+        "A wooden outdoor bench with a tv remote on it.",
+        "A television remote control on a bench outside.",
+        "a remote is resting on the seat of a wooden bench"
+      ]
+    },
+    {
+      "image_id": 315864,
+      "filename": "COCO_val2014_000000315864.jpg",
+      "captions": [
+        "A cake topped with M&Ms sitting on a tray.",
+        "The birthday cake is a train carrying candy on it.",
+        "a birthday cake with candy on top of it ",
+        "Small train car shaped cake, filled with chocolate candies.",
+        "A cake that has a name on it and candy on top."
+      ]
+    },
+    {
+      "image_id": 340642,
+      "filename": "COCO_val2014_000000340642.jpg",
+      "captions": [
+        "a brown cake with white icing and some walnut toppings",
+        "Icing with nuts on top of a cake . ",
+        "Corner of a layer cake with frosting and walnuts.",
+        "A frosted large cake on a table surface.",
+        "Walnut icing on a baked cake - maybe carrot cake"
+      ]
+    },
+    {
+      "image_id": 110630,
+      "filename": "COCO_val2014_000000110630.jpg",
+      "captions": [
+        "Colorful slice of pizza sitting on top of a white plate. ",
+        "A thick crust pizza with mushrooms, olives and whole tomatoes.",
+        "an image of a pizza slice on a plate",
+        "Slice of pizza on a white plate with brown stripes.",
+        "A slice of pizza sitting on top of a plate."
+      ]
+    },
+    {
+      "image_id": 194746,
+      "filename": "COCO_val2014_000000194746.jpg",
+      "captions": [
+        "A pizza covered in cheese dripping down onto the bottom of an oven burning.",
+        "The pizza is beginning to melt in the oven.",
+        "There is a pizza in the oven that has melted onto the bottom.",
+        "A pizza in an oven that had a lot of cheese melted off of it.",
+        "a food being cooked in an oven that has overflown "
+      ]
+    },
+    {
+      "image_id": 559047,
+      "filename": "COCO_val2014_000000559047.jpg",
+      "captions": [
+        "A cat that is sitting down on a wooden seat.",
+        "a cat sitting on a wooden top over some vegetation ",
+        "A cat sitting on a wooden bench outside in a garden area.",
+        "The cat is grey and white in color",
+        "A cat is sitting on a chair in a garden."
+      ]
+    },
+    {
+      "image_id": 185476,
+      "filename": "COCO_val2014_000000185476.jpg",
+      "captions": [
+        "A group of people with surfboards walk on the beach.",
+        "Several people walking on a beach carrying surfboards.",
+        "a number of people on a beach holding surf boards",
+        "A man in shirts carrying a surfboard to the water",
+        "A view of a beach with two surf boarders and a couple walking."
+      ]
+    },
+    {
+      "image_id": 233376,
+      "filename": "COCO_val2014_000000233376.jpg",
+      "captions": [
+        "Inside of a kitchen with a refrigerator and counter top.",
+        "A refrigerator next to a counter with bottles of wine.",
+        "A tan fridge is sitting in a kitchen.",
+        "A small kitchen with an old fridge in the corner",
+        "A refrigerator in a basic kitchen with bottles on counter."
+      ]
+    },
+    {
+      "image_id": 500211,
+      "filename": "COCO_val2014_000000500211.jpg",
+      "captions": [
+        "a spooky looking hotel resort in the hills",
+        "A row of closed brown umbrellas next to a building.",
+        "several beach umbrellas folded in front of a large house with lots of windows",
+        "All of the umbrellas are folded up. ",
+        "all umbrellas are closed at he tables outside the hotel "
+      ]
+    },
+    {
+      "image_id": 307790,
+      "filename": "COCO_val2014_000000307790.jpg",
+      "captions": [
+        "A bird standing in the wooded area with leaves all around. ",
+        "A  PHOTO OF A RED JUNGLE FOWL STANDING ON LEAVES ",
+        "a chicken standing in the dry brown leaves",
+        "This wild bird is walking on twigs and leaves.",
+        "A red and brown bird walking through brush of the same color."
+      ]
+    },
+    {
+      "image_id": 219315,
+      "filename": "COCO_val2014_000000219315.jpg",
+      "captions": [
+        "Pastry and bottle of liquid on table with various bottles ",
+        "A doughnut and soda are shown sitting on a table.",
+        "A glass bottle near a doughnut on a plate",
+        "a sandwich and green bottle of drink on a table",
+        "A table with a white plate of food and a bottle of beer."
+      ]
+    },
+    {
+      "image_id": 230679,
+      "filename": "COCO_val2014_000000230679.jpg",
+      "captions": [
+        "A person giving a giraffe some food with his hand.",
+        "A person is feeding a giraffe over a fence.",
+        "a young boy feeding a giraffe over a fence",
+        "A man in blue shirt feeding a giraffe behind a fence.",
+        "A person reaching over the fence feeding a giraffe at a zoo."
+      ]
+    },
+    {
+      "image_id": 432799,
+      "filename": "COCO_val2014_000000432799.jpg",
+      "captions": [
+        "A cooked and sliced pizza with a variety of toppings in a pizza box.",
+        "A think crust pizza with vegetables in a box.",
+        "A pizza that is in a box on a table.",
+        "The pizza with many vegetables is inside of a box.",
+        "A large sliced pizza in a box on a table."
+      ]
+    },
+    {
+      "image_id": 464286,
+      "filename": "COCO_val2014_000000464286.jpg",
+      "captions": [
+        "Several cows stick their heads out of a pen to feed. ",
+        "Cows are being feed hay while being put in cages",
+        "a number of cows in cages eating hay on the ground",
+        "A herd of cattle grazing on hay inside of a pen.",
+        "Cows strain their necks for hay in between posts of a fence."
+      ]
+    },
+    {
+      "image_id": 185781,
+      "filename": "COCO_val2014_000000185781.jpg",
+      "captions": [
+        "A group of guys standing behind several covered tables.",
+        "A group of boys standing in front of a screen and by table with computers on top.",
+        "A group of fraternity students set up audio and video equipment.",
+        "A group of people standing behind tables with laptop computers.",
+        "A group of guys standing behind tables on a stage before a presentation. "
+      ]
+    },
+    {
+      "image_id": 383443,
+      "filename": "COCO_val2014_000000383443.jpg",
+      "captions": [
+        "A bathroom with a tub, sinks, lights and a television.",
+        "A large white bathroom with two vanity sinks and a bathtub.",
+        "A bathroom with a white tub and white cabinets has a black pattern on the floor.",
+        "Large white bathroom showing sink, tub, TV, and countertops.",
+        "Deep bathtub displayed in area of large tiled bathroom."
+      ]
+    },
+    {
+      "image_id": 96832,
+      "filename": "COCO_val2014_000000096832.jpg",
+      "captions": [
+        "A man sits at a desk and uses a laptop on it",
+        "A man works with computers and peripherals at a desk.",
+        "A man sitting at a computer desk with two laptop computers.",
+        "A desk with a man working on a 2 laptops.",
+        "There is a man working on a laptop."
+      ]
+    },
+    {
+      "image_id": 130909,
+      "filename": "COCO_val2014_000000130909.jpg",
+      "captions": [
+        "A man in a kitchen instructing a woman on what to do ",
+        "A man and a woman talking to one another in a kitchen with a lot of food",
+        "a man talking to a woman in a kitchen with a lot of food in it",
+        "A man and woman talking in the kitchen.",
+        "A man with an apron on and a woman standing in a messy kitchen. "
+      ]
+    },
+    {
+      "image_id": 523194,
+      "filename": "COCO_val2014_000000523194.jpg",
+      "captions": [
+        "A fire hydrant on the side of a road.",
+        "A yellow fire hydrant by a wall and a sign",
+        "There is a fire hydrant next to a red sign",
+        "A fire hydrant and a street sign are on the side of a street.",
+        "A street sign and fire hydrant sit next to a sidewalk"
+      ]
+    },
+    {
+      "image_id": 449485,
+      "filename": "COCO_val2014_000000449485.jpg",
+      "captions": [
+        "Is this picture of a girl and her suitcase hand tinted?",
+        "A cat holding a book and placing flowers on a suitcase",
+        "A little girl standing behind a suitcase holding a book.",
+        "A person with a hat and a suitcase.",
+        "A young girl in a dress standing next to a piece of luggage and flowers. "
+      ]
+    },
+    {
+      "image_id": 429593,
+      "filename": "COCO_val2014_000000429593.jpg",
+      "captions": [
+        "A den with a television, compact discs, dvds and a couch.",
+        "A room filled with furniture and a TV.",
+        "An empty room is dimly lighted by a lamp in the corner. ",
+        "a poorly lit dining room with sheets covering the windows",
+        "a dimly lit living room with green sheets over the windows"
+      ]
+    },
+    {
+      "image_id": 315841,
+      "filename": "COCO_val2014_000000315841.jpg",
+      "captions": [
+        "A small gray elephant standing on a grass covered field.",
+        "Baby elephant standing in the grass beside a truck.",
+        "two elephants and one is a baby and a side view mirror",
+        "A young elephant came near a stopped vehicle.",
+        "A young elephant is in the grass next to a vehicle."
+      ]
+    },
+    {
+      "image_id": 557346,
+      "filename": "COCO_val2014_000000557346.jpg",
+      "captions": [
+        "A bunch of animals in a grassy area.",
+        "Many lambs are shown grazing amongst grass in a field.",
+        "A heard of sheep are roaming in the pasture.",
+        "A group of sheep are standing out in a field.",
+        "A herd of sheep that are standing in a field."
+      ]
+    },
+    {
+      "image_id": 166478,
+      "filename": "COCO_val2014_000000166478.jpg",
+      "captions": [
+        "A young guy using his computer and talking on his phone.",
+        "A man in brown shirt on black sofa with phone.",
+        "A man is talking on the phone while working on the computer.",
+        "I am unable to see an image above.",
+        "A man sits on the couch and is on laptop and phone."
+      ]
+    },
+    {
+      "image_id": 195275,
+      "filename": "COCO_val2014_000000195275.jpg",
+      "captions": [
+        "Tennis player and white outfit holding up a racket and a ball. ",
+        "A man holding a tennis racket in one hand and a ball in the other.",
+        "A young male in white preparing to play a game of tennis.",
+        "The player had his tennis racket and a ball in his hands.",
+        "A young man stands on a tennis court holding a racquet and ball."
+      ]
+    },
+    {
+      "image_id": 46497,
+      "filename": "COCO_val2014_000000046497.jpg",
+      "captions": [
+        "Two little girls sitting on the side of a white boat.",
+        "Two girls sitting on device on side of a boat.",
+        "Two girls are sitting on the edge of a boat looking at the water.",
+        "LITTLE GIRLS ARE ON THE EDGE OF A BOAT ",
+        "Children are sitting on the side of the boat in the water."
+      ]
+    },
+    {
+      "image_id": 347172,
+      "filename": "COCO_val2014_000000347172.jpg",
+      "captions": [
+        "some road signs besides a road in the street",
+        "Variety of street signs on a suburban tree lined street",
+        "A corner of a street with lots of street signs.",
+        "a number of street signs on a pole ",
+        "Street and multiple traffic signs at an intersection "
+      ]
+    },
+    {
+      "image_id": 322586,
+      "filename": "COCO_val2014_000000322586.jpg",
+      "captions": [
+        "BABY IN BLUE JEAN OVERALLS HOLDING A CELL PHONE",
+        "A baby holds a cell phone while sleeping.",
+        "A baby fast asleep holding a cell phone.",
+        "A baby is shown sleeping with a cell phone.",
+        "A baby holding a i phone sleeping in it's mother's arms."
+      ]
+    },
+    {
+      "image_id": 280705,
+      "filename": "COCO_val2014_000000280705.jpg",
+      "captions": [
+        "A photographer setting up his equipment for a photo shoot.",
+        "A person holding up a purple suit case.",
+        "A man wearing jeans holds up a purple suitcase.",
+        "a man holding a suit case above his head in front of a poster",
+        "A man standing in a  room holding a piece of purple luggage over his head."
+      ]
+    },
+    {
+      "image_id": 110435,
+      "filename": "COCO_val2014_000000110435.jpg",
+      "captions": [
+        "A woman bathing her dog in the sink",
+        "A woman is giving her dog a bath.",
+        "A puppy being given a bath in the sink by a young woman.",
+        "Lady enjoying bathing a dog in a small blue basin in a bathroom or kitchen.",
+        "Girl washing a dog who is sitting in a bucketful of water in a sink."
+      ]
+    },
+    {
+      "image_id": 281972,
+      "filename": "COCO_val2014_000000281972.jpg",
+      "captions": [
+        "A boy in a green and yellow jersey holding a baseball bat.",
+        "a close up of a baseball player holding a bat",
+        "A young boy ready to bat in a little league uniform.",
+        "A boy in a helmet and uniform holding a bat.",
+        "a boy holding a baseball bat next to fence and wearing a baseball helmet."
+      ]
+    },
+    {
+      "image_id": 78565,
+      "filename": "COCO_val2014_000000078565.jpg",
+      "captions": [
+        "Sail boats sail over a body of water while people stand near the shoreline. ",
+        "A lot of sailboats that are in the water.",
+        "A beach scene with sail boats, a dog, and people wading.",
+        "We see a very old picture of people enjoying the shore.",
+        "Small sailboats floating past a beach, with a dog and people on the beach."
+      ]
+    },
+    {
+      "image_id": 48504,
+      "filename": "COCO_val2014_000000048504.jpg",
+      "captions": [
+        "Elephants are in a ring with a person near bleachers.",
+        "Two elephants walking around the center ring of a circus.",
+        "Two elephants are in the middle of a circus ring.",
+        "The elephants are about to leave the ring.",
+        "A brown and a gray elephant are in a circus ring and the brown elephant is walking behind the gray elephant as well as two people training them are standing nearby."
+      ]
+    },
+    {
+      "image_id": 45108,
+      "filename": "COCO_val2014_000000045108.jpg",
+      "captions": [
+        "A couple of cats taking a nap on top of a bed.",
+        "Two kittens are cuddling and enjoying a soft pillow",
+        "two cats resting side by side on a bed",
+        "Two small cats are sleeping on white sheets.",
+        "Two kittens curled up in a white sheet that looks soft."
+      ]
+    },
+    {
+      "image_id": 157617,
+      "filename": "COCO_val2014_000000157617.jpg",
+      "captions": [
+        "A woman swinging a tennis racket during a match.",
+        "A tennis player swinging at the tennis ball in the middle of a match",
+        "Female tennis player playing on a tennis court",
+        "A woman tennis player playing tennis in the stadium.",
+        "A girl playing tennis on a blue tennis court."
+      ]
+    },
+    {
+      "image_id": 480747,
+      "filename": "COCO_val2014_000000480747.jpg",
+      "captions": [
+        "a young male riding an ocean wave on a surfboard",
+        "a man on a surfboard riding the waves in the ocean",
+        "An experienced surfer concentrates on the wave heading inbound.",
+        "a man rides on a surf board through the waves",
+        "a kid is riding on a surfboard at the beach"
+      ]
+    },
+    {
+      "image_id": 452113,
+      "filename": "COCO_val2014_000000452113.jpg",
+      "captions": [
+        "A group of people posing with half a dozen large cupcakes",
+        "a group of people standing by some cupcakes",
+        "A counter of cakes surrounded by a group of people.",
+        "a group of people standing around a desk ",
+        "Men, women, and children are celebrating a joyous event"
+      ]
+    },
+    {
+      "image_id": 17927,
+      "filename": "COCO_val2014_000000017927.jpg",
+      "captions": [
+        "A group of five people holding tennis rackets with a tennis ball.",
+        "A few people with tennis raquets in front of the net.",
+        "Five people are standing with tennis rackets on a sandy tennis court.",
+        "Five people with rackets stand by a tennis net.",
+        "A group of five people holding racquets on a tennis court."
+      ]
+    },
+    {
+      "image_id": 99794,
+      "filename": "COCO_val2014_000000099794.jpg",
+      "captions": [
+        "A baseball player swinging a bat on a baseball field.",
+        "A man hitting a baseball at a baseball game",
+        "Batter hitting ball at professional baseball game in stadium.",
+        "A baseball player takes his best swing at the coming ball. ",
+        "A batter swinging at a pitch during a baseball game."
+      ]
+    },
+    {
+      "image_id": 108495,
+      "filename": "COCO_val2014_000000108495.jpg",
+      "captions": [
+        "Cute girl sitting on a skateboard in the driveway ",
+        "a girl sitting on a skateboard in the driveway",
+        "A girl is sitting on a skateboard outside",
+        "A girl is sitting on the sidewalk on her skate board.",
+        "A girl in an orange sweater is sitting on a skateboard."
+      ]
+    },
+    {
+      "image_id": 382214,
+      "filename": "COCO_val2014_000000382214.jpg",
+      "captions": [
+        "A white and black bird perched on a wooden fence rail.",
+        "A small bird standing on a wooden rail.",
+        "A bird is perched on a wooden rail on the dock.",
+        "A seagull standing on a wooden beam with something red in it's beak. ",
+        "a bird perched on a wood rail by itself"
+      ]
+    },
+    {
+      "image_id": 546095,
+      "filename": "COCO_val2014_000000546095.jpg",
+      "captions": [
+        "Two large horses grazing in a large field.",
+        "Two brown horses grazing the grass in a field. ",
+        "A pair of horses graze in a field with trees.",
+        "Horse greases in an open field on green grass ",
+        "Two large brown horses grazing in a lush field of grass."
+      ]
+    },
+    {
+      "image_id": 357096,
+      "filename": "COCO_val2014_000000357096.jpg",
+      "captions": [
+        "A young child plunging a toilet with a plunger.",
+        "A little girl trying to plunge a toilet bowl",
+        "A little girl uses a plunger in the toilet.",
+        "a small child with a plunger in a toilet",
+        "A small child plunging a toilet in a bathroom."
+      ]
+    },
+    {
+      "image_id": 229688,
+      "filename": "COCO_val2014_000000229688.jpg",
+      "captions": [
+        "A woman with beautiful breast sitting at a table.",
+        "a person sitting at a table with food and a drink",
+        "Young women gazing pensively left while sitting in a restaurant.",
+        "A woman sits beside a brick wall at a small table in a restaurant.",
+        "A woman is resting her head on her hands"
+      ]
+    },
+    {
+      "image_id": 525272,
+      "filename": "COCO_val2014_000000525272.jpg",
+      "captions": [
+        "A tomato, onion and basil pizza in it's raw state.",
+        "Gourmet pesto, mozzarella cheese and tomato pizza ready for the oven",
+        "A picture of a Pizza Hut that is not cooked yet.",
+        "An uncooked pizza with mozzarella cheese and tomatoes.",
+        "a pizza with big slices of tomatoes and white cheese"
+      ]
+    },
+    {
+      "image_id": 227851,
+      "filename": "COCO_val2014_000000227851.jpg",
+      "captions": [
+        "An elderly woman fanning herself while sitting outside.",
+        "The woman sitting down is talking on her phone.",
+        "A woman talks on a cell phone while fanning herself.",
+        "an older woman appears to be in discomfort with her hand held to her face",
+        "A woman is talking on her mobile phone angrily."
+      ]
+    },
+    {
+      "image_id": 164104,
+      "filename": "COCO_val2014_000000164104.jpg",
+      "captions": [
+        "An ostrich and zebra fenced in with each other. ",
+        "a zebra stands next to an ostrich and tree ",
+        "A zebra and large bird are standing together near a fence.",
+        "An ostrich in a zoo a long with three zebras. ",
+        "An ostrich standing in a zoo pin near some zebras."
+      ]
+    },
+    {
+      "image_id": 376236,
+      "filename": "COCO_val2014_000000376236.jpg",
+      "captions": [
+        "a young boy is feeding a large giraffe",
+        "From his hand, a young boy feeds a giraffe.",
+        "A giraffe is eating out of a kids hand.",
+        "a close up of a person feeding a giraffe ",
+        "A child feeding a giraffe from the palm of his hand."
+      ]
+    },
+    {
+      "image_id": 364340,
+      "filename": "COCO_val2014_000000364340.jpg",
+      "captions": [
+        "A white clock tower with palm trees in the foreground.",
+        "A white clock tower towering over a small town.",
+        "A row of palm trees along a walkway near a building with a tall tower.",
+        "A tower with a clock and people in a community square with palm trees.",
+        "a tall clock tower with trees in front of it"
+      ]
+    },
+    {
+      "image_id": 207205,
+      "filename": "COCO_val2014_000000207205.jpg",
+      "captions": [
+        "A plate full of meat, vegetables and rice.",
+        "A BBQ steak on a plate next to mashed potatoes and mixed vegetables.",
+        "A gorgeous steak is shown on a platter flanked by grilled vegetables and couscous.",
+        "A steak and vegetable meal on a plate.",
+        "A plate full of food containing broccoli, carrots, rice and a steak."
+      ]
+    },
+    {
+      "image_id": 441496,
+      "filename": "COCO_val2014_000000441496.jpg",
+      "captions": [
+        "A couple of people on kayak boats in the middle of the ocean.",
+        "A photo overlooking a body of water with people in kayaks.",
+        "there are many canoes that are in the water",
+        "kiaks in water with buildings in the background",
+        "Several kayaks moving across smooth waters with buildings in the background"
+      ]
+    },
+    {
+      "image_id": 71687,
+      "filename": "COCO_val2014_000000071687.jpg",
+      "captions": [
+        "A cat sitting on top of a pile of white towels.",
+        "a cat standing on top of a cars ash board ",
+        "a cat is walking across the dash of a car",
+        "A cat sits on the dash of a car.",
+        "A kitty sitting on a newspaper on a car's dashboard."
+      ]
+    },
+    {
+      "image_id": 281019,
+      "filename": "COCO_val2014_000000281019.jpg",
+      "captions": [
+        "a room showing a toilet and a sink",
+        "A bathroom with a tub, sink and toilet",
+        "A bathroom with a white toilet sitting next to a sink.",
+        "A shower curtain is light brown in a bathroom.",
+        "A white sink and toilet in a room."
+      ]
+    },
+    {
+      "image_id": 233830,
+      "filename": "COCO_val2014_000000233830.jpg",
+      "captions": [
+        "A plate of food on a table with a person eating nearby.",
+        "A plateful of food sitting on table in a cafeteria",
+        "A sandwich with the ingredients overflowing into a large salad.",
+        "Two plates of food, salt and pepper shaker and three drinks.",
+        "A plate with a pile of food on it, on a dining table with bottles of drinks and a person sitting at the table eating."
+      ]
+    },
+    {
+      "image_id": 205866,
+      "filename": "COCO_val2014_000000205866.jpg",
+      "captions": [
+        "A woman and a dog stand on the ocean shore near some boats.",
+        "People and a dog in the background on a beach with kayaks in the foreground.",
+        "A woman plays with her dog on the shore.",
+        "a woman staring at her dog on the beach ",
+        "Woman and dog on the edge of the water."
+      ]
+    },
+    {
+      "image_id": 443537,
+      "filename": "COCO_val2014_000000443537.jpg",
+      "captions": [
+        "A cat and dog are close together on a bed.",
+        "A cat and dog laying together on a bed.",
+        "a dog and a cat lay on a bed with a window near by",
+        "a black and white dog and a gray cat laying on a bed",
+        "A dog and a cat laying on a blanket together. "
+      ]
+    },
+    {
+      "image_id": 29056,
+      "filename": "COCO_val2014_000000029056.jpg",
+      "captions": [
+        "A sign for a state fair is under a street sign.",
+        "a closeup of a street sign for \"Main Street\" with a sign for the Wisconsin State Fair",
+        "A pole with signage and a banner with light at the top",
+        "On main street is the Wisconsin state fair presented by U.S. Cellular.",
+        "A green street sign with a banner hanging off of it's side."
+      ]
+    },
+    {
+      "image_id": 444302,
+      "filename": "COCO_val2014_000000444302.jpg",
+      "captions": [
+        "A 25 mph turn sign on the side of a highway. ",
+        "A speed limit sign, along with a sign showing direction of travel.",
+        "Roadside traffic sign that posting the speed limit and the direction of upcoming curve direction.",
+        "Sign alerting drivers of right turn and speed limit of 25pmh.",
+        "A sign sits next to a highway with a tree-covered hill in the background. "
+      ]
+    },
+    {
+      "image_id": 539904,
+      "filename": "COCO_val2014_000000539904.jpg",
+      "captions": [
+        "A yellow fire  hydrant sitting on the side of a road.",
+        "A yellow fire hydrant that is in the grass.",
+        "a yellow fire hydrant and a person in a brown jacket ",
+        "A yellow fire hydrant sitting in a parking lot.",
+        "A yellow fire hydrant next to a red painted curb and someone walking in the background."
+      ]
+    },
+    {
+      "image_id": 556608,
+      "filename": "COCO_val2014_000000556608.jpg",
+      "captions": [
+        "A birthday cake with English and Chinese characters.",
+        "A chocolate and vanilla birthday cake sitting on a white table. ",
+        "A chocolate cake sitting on to of a table.",
+        "A white table that is holding a chocolate cake.",
+        "A large Happy Birthday cake is decorated with frosting."
+      ]
+    },
+    {
+      "image_id": 92488,
+      "filename": "COCO_val2014_000000092488.jpg",
+      "captions": [
+        "A clock hanging off the side of a  all building.",
+        "Several tall architectural structures that have many windows. ",
+        "A full view of the buildings in the downtown area. ",
+        "Many large buildings located behind a traffic light.",
+        "The outside of various buildings with concrete and glass exterior. "
+      ]
+    },
+    {
+      "image_id": 269254,
+      "filename": "COCO_val2014_000000269254.jpg",
+      "captions": [
+        "People on a motorcycle holding a wrapped surfboard.",
+        "A man and woman loading a surfboard on a motorcycle outside with other riders nearby",
+        "A woman helping another woman hold a surfboard while she is on the back of a scooter.",
+        "Some people trying to load an item onto a motorcycle.",
+        "some people are loading a surfboard onto a motorcycle"
+      ]
+    },
+    {
+      "image_id": 442214,
+      "filename": "COCO_val2014_000000442214.jpg",
+      "captions": [
+        "Two people eating powdered and chocolate doughnuts and coffee.",
+        "a table with some doughnuts sitting on top of it ",
+        "Two people enjoying breakfast pastries on two plates.",
+        "Table with coffee and and donuts sitting on a white plate. ",
+        "A woman standing over a table in front of two plates of food."
+      ]
+    },
+    {
+      "image_id": 206851,
+      "filename": "COCO_val2014_000000206851.jpg",
+      "captions": [
+        "A man riding on top of a snowboard in the snow.",
+        "A person stands on a snowboard in front of a setting sun.",
+        "They are skiing on the slopes together on a nice day.",
+        "The snowboarder is posing for a picture at twilight.",
+        "Persons skating on skate board on snow covered ground."
+      ]
+    },
+    {
+      "image_id": 489611,
+      "filename": "COCO_val2014_000000489611.jpg",
+      "captions": [
+        "A young boy holding Nintendo Wii game controllers.",
+        "A little boy is staring attentively while playing a video game.",
+        "A small child holds two video game controllers.",
+        "A boy in grey shirt holding a Nintendo Wii controller.",
+        "a close up of a young child playing nintendo wii"
+      ]
+    },
+    {
+      "image_id": 417281,
+      "filename": "COCO_val2014_000000417281.jpg",
+      "captions": [
+        "THERE IS A MAN THAT IS STANDING ON THE BEACH ",
+        "A man looks at a surfboard while holding the ankle strap on a beach.",
+        "A man is holding his shark surf board up by a piece of string on the sand.",
+        "A man holding onto a surfboard on the beach",
+        "a tall male holding a surfboard on a beach near the ocean"
+      ]
+    },
+    {
+      "image_id": 42190,
+      "filename": "COCO_val2014_000000042190.jpg",
+      "captions": [
+        "A person on a surfboard in the water.",
+        "Someone is hand gliding through a body of water.",
+        "A man kiteboarding on the ocean on top of a wave.",
+        "A man that is on a wake board in the water.",
+        "The kitesurfer leans far backwards in the ocean."
+      ]
+    },
+    {
+      "image_id": 9801,
+      "filename": "COCO_val2014_000000009801.jpg",
+      "captions": [
+        "A person near a bike and a car on a street.",
+        "A parked motorcycle with a cat and a person leaning on top of it.",
+        "A woman is next to a scooter and cat.",
+        "a woman is looking at a cat on a bike",
+        "A cat sitting on a motorcycle that is parked in a driveway."
+      ]
+    },
+    {
+      "image_id": 554595,
+      "filename": "COCO_val2014_000000554595.jpg",
+      "captions": [
+        "A man laying on top of a sandy beach laying next to a surfboard.",
+        "A man laying on the beach next to a surfboard.",
+        "A man sits on a shore with his surfboard. ",
+        "A man in a blue shirt laying next to a yellow surfboard.",
+        "a close up of a person sitting on a beach next to a surf board"
+      ]
+    },
+    {
+      "image_id": 399284,
+      "filename": "COCO_val2014_000000399284.jpg",
+      "captions": [
+        "A man on a surfboard riding a wave.",
+        "a male surfer in red trunks and a white board",
+        "A man on surfboard riding in the middle of a wave.",
+        "A man surfing in a bright blue ocean.",
+        "A man on a surfboard in the midst of an ocean wave."
+      ]
+    },
+    {
+      "image_id": 46433,
+      "filename": "COCO_val2014_000000046433.jpg",
+      "captions": [
+        "Two boys in beds with a bookcase in between them.",
+        "Two children in a black and white photo sitting up in bed.",
+        "two boys in their beds with a bookcase between them",
+        "Two young boys use a book shelf as an arm rest while in bed.",
+        "Two boys are sitting upright in bed near a nightstand."
+      ]
+    },
+    {
+      "image_id": 214527,
+      "filename": "COCO_val2014_000000214527.jpg",
+      "captions": [
+        "A train station with a large clock on the front of the building.",
+        "a short clock tower that covers a walkway as well ",
+        "A covered area is made of glass and has a clock.",
+        "People walking through a covered pedestrian walk-way that has a large clock",
+        "A clock is high up on a large city structure."
+      ]
+    },
+    {
+      "image_id": 178795,
+      "filename": "COCO_val2014_000000178795.jpg",
+      "captions": [
+        "a table top with some plates of food on it ",
+        "Plates of partially eaten food at the table.",
+        "Two plates of breakfast foods on a restaurant table.",
+        "Several plates of partially eaten food with silverware.",
+        "Two plates with food sitting on a table"
+      ]
+    },
+    {
+      "image_id": 130225,
+      "filename": "COCO_val2014_000000130225.jpg",
+      "captions": [
+        "Two people standing in the grass flying a kite.",
+        "Young people standing in open field with many kites in air at outdoor event.",
+        "two people are watching a bunch of kite-flyers on a beach",
+        "A large group of people flying various kites.",
+        "two people standing near one another with kites in the air "
+      ]
+    },
+    {
+      "image_id": 137844,
+      "filename": "COCO_val2014_000000137844.jpg",
+      "captions": [
+        "a skateboarder in a black shirt  is doing a trick",
+        "A man in grey shirt jumping on a skateboard.",
+        "A person riding a skateboard up a ramp by a mountain.",
+        "A person at a skatepark doing some tricks",
+        "A skateboarder is curving his jump in a bowl"
+      ]
+    },
+    {
+      "image_id": 6896,
+      "filename": "COCO_val2014_000000006896.jpg",
+      "captions": [
+        "Man posing in front of a pair of giraffes in background.",
+        "The man poses for a picture with the two giraffes.",
+        "A man is leaning on a fence that's enclosing giraffes.",
+        "A man poses for the camera with giraffes in the background.",
+        "a man stands over an area with a couple of giraffes in it "
+      ]
+    },
+    {
+      "image_id": 43657,
+      "filename": "COCO_val2014_000000043657.jpg",
+      "captions": [
+        "A batter that is watching the ball go past them to the catcher. ",
+        "A young boy watches a pitch go by in a little league game",
+        "A pitch being thrown in a little league game",
+        "A baseball player standing next to home plate.",
+        "Little league baseball player at the plate with catcher catching the ball"
+      ]
+    },
+    {
+      "image_id": 213224,
+      "filename": "COCO_val2014_000000213224.jpg",
+      "captions": [
+        "A vase filled with flowers next to a smaller vase filled with even more flowers.",
+        "Two vases filled with flowers on a table.",
+        "Two vases of fresh flowers sit on top of the table.",
+        "a small vase and a large vase of flowers on a table",
+        "A wooden table holding two vases of flowers."
+      ]
+    },
+    {
+      "image_id": 3156,
+      "filename": "COCO_val2014_000000003156.jpg",
+      "captions": [
+        "A young man bending next to a toilet.",
+        "A man is kneeling and holding on to a toilet.",
+        "A man attempting to lift up a toilet off the floor.",
+        "A man fixing a toilet in a black and white photo.",
+        "A man wears gloves as he installs a toilet."
+      ]
+    },
+    {
+      "image_id": 254983,
+      "filename": "COCO_val2014_000000254983.jpg",
+      "captions": [
+        "A man swings a baseball bat while another man watches.",
+        "A boy swinging a bat while playing baseball.",
+        "a man in the field holding a bat playing",
+        "A baseball player preparing to run after batting.",
+        "A batter is taking a swing in a vintage photo."
+      ]
+    },
+    {
+      "image_id": 575194,
+      "filename": "COCO_val2014_000000575194.jpg",
+      "captions": [
+        "A baseball player hugging another player as lovers do.",
+        "Baseball players are fighting with another player from another team.",
+        "A group of men in baseball outfits fighting. ",
+        "Three men in baseball uniforms are fighting with a crowd behind them.",
+        "Several baseball players in an altercation with one head locking the other,"
+      ]
+    },
+    {
+      "image_id": 46432,
+      "filename": "COCO_val2014_000000046432.jpg",
+      "captions": [
+        "A view from an airplane flying over a mountainous region.",
+        "The view out of an airplane with part of the wing.",
+        "A view of a mountain range is seen from an airplane.",
+        "Looking out of an airplane at mountains and a river below",
+        "A photo taken from an airplane looking down at the mountains."
+      ]
+    },
+    {
+      "image_id": 544365,
+      "filename": "COCO_val2014_000000544365.jpg",
+      "captions": [
+        "a living room with a tv on top of a stand with a guitars sitting next to ",
+        "A view of a TV with a few guitars next to it.",
+        "A living room with a tv in the corner and a faux fireplace ",
+        "Television on an entertainment stand in a livingroom corner",
+        "a room with a tv in the corner, 2 guitars, a fireplace and a painting on the wall"
+      ]
+    },
+    {
+      "image_id": 271471,
+      "filename": "COCO_val2014_000000271471.jpg",
+      "captions": [
+        "A bunch of bananas on a plate on a counter.",
+        "A bunch of bananas on a plate with a sign on it.",
+        "Bananas on a plate being served as drinks.",
+        "Bananas are piled on a white circular plate.",
+        "A bunch of bananas is displayed on a counter top."
+      ]
+    },
+    {
+      "image_id": 301467,
+      "filename": "COCO_val2014_000000301467.jpg",
+      "captions": [
+        "a few deer and a zebra on a grass field",
+        "A few gazelles near a zebra in a field.",
+        "a bunch of animals that are in some grass",
+        "The zebra is standing near four brown deer. ",
+        "Some gazelle and a zebra standing in a field."
+      ]
+    },
+    {
+      "image_id": 224757,
+      "filename": "COCO_val2014_000000224757.jpg",
+      "captions": [
+        "A man instructing a group of kids on a soccer field.",
+        "A soccer coach is instructing the children on the field.",
+        "A group of young children standing around a field.",
+        "Dad coaches talking to the little soccer team players on the field",
+        "Pair of adult males with group of small children with soccer balls."
+      ]
+    },
+    {
+      "image_id": 279621,
+      "filename": "COCO_val2014_000000279621.jpg",
+      "captions": [
+        "a yellow and black train is coming down the tracks",
+        "a colorful train going down a track next to  some hills ",
+        "A train that is sitting on a track near the dirt.",
+        "A photo looking down at an old train going by.",
+        "A train is traveling down train tracks outside a residential area."
+      ]
+    },
+    {
+      "image_id": 494608,
+      "filename": "COCO_val2014_000000494608.jpg",
+      "captions": [
+        "Two people standing next to each other wearing skis.",
+        "THERE ARE TWO PEOPLE THAT ARE STANDING TOGETHER ON THE SKIES",
+        "Two people on skis taking a photo in the snow",
+        "Two skiers stand next to each other outside on a snowy hill.",
+        "A man and woman take a skiing break."
+      ]
+    },
+    {
+      "image_id": 229014,
+      "filename": "COCO_val2014_000000229014.jpg",
+      "captions": [
+        "A boat that is sitting in the water.",
+        "A motor boat is sailing near a dock with other boats.",
+        "An assortment of homes and watercraft dot a picturesque harbor.",
+        "a small boat in a large body of water",
+        "Several boats that are anchored in a body of water."
+      ]
+    },
+    {
+      "image_id": 157726,
+      "filename": "COCO_val2014_000000157726.jpg",
+      "captions": [
+        "A bus stop sign on a city street.",
+        "A blue bus stop sign near a highway.",
+        "A large blue bus sign sitting on the side of a road.",
+        "A bus stop sign on a city street. ",
+        "A bus stop sign on the side of the road."
+      ]
+    },
+    {
+      "image_id": 571804,
+      "filename": "COCO_val2014_000000571804.jpg",
+      "captions": [
+        "Ten porcelain pieces with floral patterns painted on them.",
+        "A collection of sinks, and basins are on display.",
+        "fine china stays on display, not to be touched ",
+        "A porcelain tea and bathroom set is on display.",
+        "A collection of soap dishes, bowls, and small trinkets. "
+      ]
+    },
+    {
+      "image_id": 72507,
+      "filename": "COCO_val2014_000000072507.jpg",
+      "captions": [
+        "A train pulling passenger cars on a train track.",
+        "A black train is on a train track near some foothills.",
+        "A black train and orange train cars on tracks.",
+        "A locomotive train is on a railroad track.",
+        "An older style black locomotive numbered 473 pullin passenger cabins."
+      ]
+    },
+    {
+      "image_id": 408621,
+      "filename": "COCO_val2014_000000408621.jpg",
+      "captions": [
+        "A yellow and green bus passing in front of a building.",
+        "A passenger bus that is parked in front of a library.",
+        "Metro bus driving past the Green Lake Branch of Seattle, WA library.",
+        "A bus parked in front of a library building.",
+        "A bus stopped in front of a building."
+      ]
+    },
+    {
+      "image_id": 16491,
+      "filename": "COCO_val2014_000000016491.jpg",
+      "captions": [
+        "a number of baseball players on a field",
+        "a group of baseball players standing on a baseball diamond",
+        "Action in the infield of a professional baseball game.",
+        "baseball players standing around during part of a game ",
+        "A group of baseball player standing on top of a field."
+      ]
+    },
+    {
+      "image_id": 454444,
+      "filename": "COCO_val2014_000000454444.jpg",
+      "captions": [
+        "A group of three giraffe standing inside of a cage.",
+        "The three giraffes are being kept indoors for being to see. ",
+        "Three giraffes in an indoor enclosure being photographed by visitors.",
+        "A group of zebras in a glass room with people taking pictures.",
+        "A man seems to be taking shots of four Zebras. "
+      ]
+    },
+    {
+      "image_id": 290570,
+      "filename": "COCO_val2014_000000290570.jpg",
+      "captions": [
+        "A herd of sheep standing on top of snow covered field.",
+        "Several sheep grazing in a field of tall grass in front of a building.",
+        "Group of sheep and mountain out front of old house.",
+        "A flock of sheep standing around in the middle of a pen.",
+        "Sheep are grazing in a snow dusted field. "
+      ]
+    },
+    {
+      "image_id": 490643,
+      "filename": "COCO_val2014_000000490643.jpg",
+      "captions": [
+        "A couple of giraffe standing next to a doorway.",
+        "these two giraffes are enjoying a walk together",
+        "An adult giraffe with a young one walking outside in a cage while another one is in a building",
+        "Giraffes standing outside in front of a brick wall. ",
+        "A mom giraffe escorting her newborn around a fenced in area."
+      ]
+    },
+    {
+      "image_id": 196490,
+      "filename": "COCO_val2014_000000196490.jpg",
+      "captions": [
+        "A man is riding a motorcycle in a race.",
+        "A person on a motorcycle riding beside hay bales.",
+        "A man that is sitting on a motorcycle in the street.",
+        "A motorcyclist proceeds down the track by some bales.  ",
+        "A person is riding a red, white, and blue motorcycle."
+      ]
+    },
+    {
+      "image_id": 374677,
+      "filename": "COCO_val2014_000000374677.jpg",
+      "captions": [
+        "A  brown vase filled with two purple flowers.",
+        "Two purple flowers are in a brown vase.",
+        "An odd shaped flower vase with two flowers in it.",
+        "A display of a purple flower in a brown vase.",
+        "The vase is used to display purple flowers."
+      ]
+    },
+    {
+      "image_id": 409667,
+      "filename": "COCO_val2014_000000409667.jpg",
+      "captions": [
+        "A couple of baseball players in uniform standing in a field.",
+        "A baseball player contorts his body as he throws a ball.",
+        "A man in a pitching pose with a glove near  another man with a glove.",
+        "A baseball player is running to catch a ball.",
+        "A pitcher has just thrown a baseball and another player is in the background."
+      ]
+    },
+    {
+      "image_id": 526414,
+      "filename": "COCO_val2014_000000526414.jpg",
+      "captions": [
+        "An upstairs living room is decorated nicely and holds a sewing machine.",
+        "A sewing machine on a table in a cluttered living room.",
+        "The living has a table where someone can do sewing on. ",
+        "A family room with sofa, television, sewing area, and book shelves.",
+        "A living room with a sewing machine during a sunny day."
+      ]
+    },
+    {
+      "image_id": 52591,
+      "filename": "COCO_val2014_000000052591.jpg",
+      "captions": [
+        "A woman standing while holding a pole on snow",
+        "A girl posing with ski equipment in the snow",
+        "A classic black and white photo of a woman holding ski's",
+        "a female standing beside a wooden post with a fake background",
+        "A woman holding a couple of ski poles and skis."
+      ]
+    },
+    {
+      "image_id": 130524,
+      "filename": "COCO_val2014_000000130524.jpg",
+      "captions": [
+        "a table covered wtih two taptops and a phone and assorted accessories",
+        "two laptops a lamp and telephone on a table ",
+        "Two laptops next to each other and well-connected.",
+        "Two laptop computers sitting on top of a wooden table.",
+        "Two laptops on a desk with a lamp and a mouse."
+      ]
+    },
+    {
+      "image_id": 231691,
+      "filename": "COCO_val2014_000000231691.jpg",
+      "captions": [
+        "a train on a train track at a station ",
+        "A blue subway train pulls into the subway station.",
+        "A passenger train that is pulling into a station.",
+        "A passenger train pulled up to a covered platform with people standing on the platform.",
+        "A purple train traveling down tracks near a platform."
+      ]
+    },
+    {
+      "image_id": 533493,
+      "filename": "COCO_val2014_000000533493.jpg",
+      "captions": [
+        "Three men celebrating some kind of personal victory.",
+        "There are a group of friends laughing together and licking out there tongue",
+        "Three men celebrating as they play a frisbee game.",
+        "Three men playing frisbee with a blue sky in background.",
+        "Three people are celebrating after winning a Frisbee game."
+      ]
+    },
+    {
+      "image_id": 277289,
+      "filename": "COCO_val2014_000000277289.jpg",
+      "captions": [
+        "A living room filled with furniture and a window.",
+        "A living room with white couches and a stylish white ottoman turned into a table.",
+        "The living room is clean and ready to use. ",
+        "A living room with a couch, table and TV.",
+        "Well lit living room with white couch, coffee table, and TV."
+      ]
+    },
+    {
+      "image_id": 140076,
+      "filename": "COCO_val2014_000000140076.jpg",
+      "captions": [
+        "A made up dinner table with a flower vase on the table. ",
+        "A dining room has a dining table and chairs, wall tapestry, and bar cart.",
+        "The table has been decorated with a very modern look.",
+        "A view of a table with a vase on the middle of it.",
+        "A table that has a vase on it near a blanket hanging on a wall."
+      ]
+    },
+    {
+      "image_id": 176466,
+      "filename": "COCO_val2014_000000176466.jpg",
+      "captions": [
+        "The young girl is standing by the fire hydrant in curlers.",
+        "A little girl standing next to a green fire hydrant.",
+        "A young child with rollers in her hair stands next to a fire hydrant on the side of the road in a city.",
+        "A young girl in curlers by a fire hydrant on a city street",
+        "A small girl with rollers in her hair, standing next to a fire hydrant on a street."
+      ]
+    },
+    {
+      "image_id": 386164,
+      "filename": "COCO_val2014_000000386164.jpg",
+      "captions": [
+        "A wooden ball on top of a wooden stick.",
+        "The table is full of wooden spoons and utensils.",
+        "A wood table holding an assortment of wood cooking utensils.",
+        "A selection of wooden kitchen tools on a counter.",
+        "Wooden spoons are lined up on a table"
+      ]
+    },
+    {
+      "image_id": 468197,
+      "filename": "COCO_val2014_000000468197.jpg",
+      "captions": [
+        "Two people surfing a beautiful sky blue wave.",
+        "two people riding surf boards on a wave",
+        "Two people using surfboards on a large wave",
+        "A surf boarder who is riding a wave.",
+        "There are two people surfing on the water."
+      ]
+    },
+    {
+      "image_id": 221232,
+      "filename": "COCO_val2014_000000221232.jpg",
+      "captions": [
+        "The man is holding a large bird outside. ",
+        "A man holding a bird inside a sanctuary ",
+        "A man wearing a brown hat and a uniform shirt is holding a cockatoo upside down.",
+        "A man is holding a white bird on his arm.",
+        "A bird trainer showing an audience a wild bird."
+      ]
+    },
+    {
+      "image_id": 535602,
+      "filename": "COCO_val2014_000000535602.jpg",
+      "captions": [
+        "A open box with pizza on the ground.",
+        "A cat stands next to an open pizza box.",
+        "A cat stands near a box of pizza on the floor. ",
+        "a cat standing besides a box with a piece of pizza",
+        "A cat standing next to an open box with pizza in it. "
+      ]
+    },
+    {
+      "image_id": 275210,
+      "filename": "COCO_val2014_000000275210.jpg",
+      "captions": [
+        "A giraffe in a dry savannah with dry shrubs",
+        "A giraffe standing in a dry, open field.",
+        "A giraffe standing on top of a dry grass field.",
+        "A giraffe stands out in the dried out field alone ",
+        "A giraffe standing in the dirt surround by leafless trees. "
+      ]
+    },
+    {
+      "image_id": 177938,
+      "filename": "COCO_val2014_000000177938.jpg",
+      "captions": [
+        "A man standing next to a parked motorcycle.",
+        "A man in a garage tinkers with a motorcycle",
+        "Man at a cycle shop inspecting a motorcycle on a cycle lift.",
+        "A man is working on a motorcycle in a garage.",
+        "A guy is in a shop working on a motorcycle. "
+      ]
+    },
+    {
+      "image_id": 287636,
+      "filename": "COCO_val2014_000000287636.jpg",
+      "captions": [
+        "Mother and son on the beach with surf board in the foreground.",
+        "two people on a beach with a surf board",
+        "A surfboard on the sandy beach and a mother and child in the background..",
+        "A woman and a child walk away from a board placed on the beach.",
+        "An adult and child on the beach with a surf board."
+      ]
+    },
+    {
+      "image_id": 427646,
+      "filename": "COCO_val2014_000000427646.jpg",
+      "captions": [
+        "A train on a track traveling through a countryside. ",
+        "Commuter train on tracks in rural area on clear day.",
+        " A high speed passenger train that is going down the track. ",
+        "A long train going down the train track. ",
+        "A train is moving on tracks in an open field. "
+      ]
+    },
+    {
+      "image_id": 103485,
+      "filename": "COCO_val2014_000000103485.jpg",
+      "captions": [
+        "A group of young people playing a game of soccer.",
+        "a bunch of people play a game of soccer ",
+        "A group of kids outside playing with a ball.",
+        "A group of people on a green court practicing soccer.",
+        "A group of boys and girls playing sports"
+      ]
+    },
+    {
+      "image_id": 412604,
+      "filename": "COCO_val2014_000000412604.jpg",
+      "captions": [
+        "A man holding a half eaten chocolate donut",
+        "A man is eating a donut while using the computer in his bathrobe.",
+        "A man in a robe eating a chocolate donut.",
+        "A hairy man eating a chocolate doughnut in his house",
+        "A man is holding a donut with a bite taken out of it."
+      ]
+    },
+    {
+      "image_id": 301817,
+      "filename": "COCO_val2014_000000301817.jpg",
+      "captions": [
+        "A red brick building sits on a corner and has a tower and a clock.",
+        "A very tall clock tower on top of a brick building.",
+        "A building at corner of street with clock tower.",
+        "There is a building with a clock tower on top.",
+        "a large building made of brick on the corner"
+      ]
+    },
+    {
+      "image_id": 322175,
+      "filename": "COCO_val2014_000000322175.jpg",
+      "captions": [
+        "Various exotic fruits adorn a wooden surface. ",
+        "Large group of apples sitting on top of a stone. ",
+        "An apple sitting next to a green plant.",
+        "a group of weird looking vegetables sitting on a table",
+        "A number of fruits and nuts on a stone"
+      ]
+    },
+    {
+      "image_id": 152252,
+      "filename": "COCO_val2014_000000152252.jpg",
+      "captions": [
+        "An old creased photo of a group of boys and men",
+        "A black and white photograph of boys posing for a school picture",
+        "An old black and white photograph of boys sitting and standing in rows in front of a brick building, all wearing coats and ties.",
+        "Vintage black and white class picture probably from boy's school.",
+        "A bent black and white photo shows a group of children"
+      ]
+    },
+    {
+      "image_id": 91488,
+      "filename": "COCO_val2014_000000091488.jpg",
+      "captions": [
+        "a group of sheep are all outside in the soil together",
+        "Llamas are standing on the slope of a hill.  ",
+        "A herd of sheep on a hill in an impoverished community.",
+        "his is a herd of sheep on the side of a mountain",
+        "A herd of sheep walking along a dirt field."
+      ]
+    },
+    {
+      "image_id": 436676,
+      "filename": "COCO_val2014_000000436676.jpg",
+      "captions": [
+        "A person and a black cat are on a brown couch with a colorful blanket.",
+        "A person laying on a couch with a cat laying in their arms, covering part of the face.",
+        "A woman is holding a cat while she lays on a couch.",
+        "Girl holding cat on couch while cat's eyes are closed",
+        "A woman on a couch with a cat."
+      ]
+    },
+    {
+      "image_id": 3832,
+      "filename": "COCO_val2014_000000003832.jpg",
+      "captions": [
+        "A white boat floating on a lake under mountains.",
+        "A yacht next to smaller boats docked on water.",
+        "A large boat and two smaller boats in a row. ",
+        "Several boats in the water docked at a port.",
+        "A very large yacht is docked next to several sailboats."
+      ]
+    },
+    {
+      "image_id": 106048,
+      "filename": "COCO_val2014_000000106048.jpg",
+      "captions": [
+        "A white bus driving past a tall building.",
+        "a black and white bus some bushes and building",
+        "A white decorated bus is next to a building.",
+        "a large white bus that is by a building",
+        "A large bus parked in a parking lot "
+      ]
+    },
+    {
+      "image_id": 133567,
+      "filename": "COCO_val2014_000000133567.jpg",
+      "captions": [
+        "A person looking at a train going by.",
+        "A train is passing by while an onlooker is standing next to track.",
+        "A man standing in front of the Amtrak train.",
+        "An Amtrack train is on the railroad tracks.",
+        "A train on train tracks with a person in the foreground."
+      ]
+    },
+    {
+      "image_id": 360730,
+      "filename": "COCO_val2014_000000360730.jpg",
+      "captions": [
+        "The man is getting ready to eat the thing he is holding.",
+        "A man that is holding a pigs foot in his hand.",
+        "A group of people in a hotel seated ",
+        "The man holds a pig foot next to his mouth. ",
+        "a man is licking a pig foot in a store"
+      ]
+    },
+    {
+      "image_id": 570521,
+      "filename": "COCO_val2014_000000570521.jpg",
+      "captions": [
+        "A cat lays asleep on a blue thing.",
+        "A picture of a cat that is sleeping.",
+        "a gray black and white cat is sleeping on a blue couch",
+        "A cat is sitting on the arm of a chair.",
+        "A cat closes its eyes to nap on the edge of a sofa."
+      ]
+    },
+    {
+      "image_id": 532403,
+      "filename": "COCO_val2014_000000532403.jpg",
+      "captions": [
+        "A pile of scissors of many colors and a ruler.",
+        "There are many different colored scissors on top of a desk",
+        "A stack of various scissors and a ruler on a table.",
+        "A bunch of colorful scissors sits on a wooden table next to a ruler.",
+        "Group of different colored scissors next to each other. "
+      ]
+    },
+    {
+      "image_id": 251379,
+      "filename": "COCO_val2014_000000251379.jpg",
+      "captions": [
+        "A parking meter with two heads stands on the street.",
+        "an old silver and brown double parking meter",
+        "Old coin operated parking meters with the innards removed",
+        "A double parking meter has a clear glass semicircle on the top half of each meter.",
+        "A parking tole that is old ad somewhat rusted "
+      ]
+    },
+    {
+      "image_id": 195800,
+      "filename": "COCO_val2014_000000195800.jpg",
+      "captions": [
+        "A street with people and cows walking down it.",
+        "A street that has three cows walking down the street together and people on the sidewalk area.",
+        "A few cows walking down the street in a town.",
+        "Three cows walking along the street in a town.",
+        "Cows on the street next to people that are on the sidewalk. "
+      ]
+    },
+    {
+      "image_id": 241503,
+      "filename": "COCO_val2014_000000241503.jpg",
+      "captions": [
+        "There is a dog sleeping on a futon.",
+        "MESSY BED AND ONLY TWO CHAIRS IN A SMALL ROOM",
+        "A very cute dog laying on a big bed.",
+        "A small black and white dog sleeping on a small cot.",
+        "A dog sleeping on the corner of an untidy bed."
+      ]
+    },
+    {
+      "image_id": 236837,
+      "filename": "COCO_val2014_000000236837.jpg",
+      "captions": [
+        "A large blue passenger train pulling into a train station.",
+        "Numerous trains are parked at a train yard.",
+        "A TRAIN STATION WITH SEVERAL TRAINS IN THE STATION ",
+        "A large train station with a few trains pulled in.",
+        "a busy train station full of trains and metal railings "
+      ]
+    },
+    {
+      "image_id": 225494,
+      "filename": "COCO_val2014_000000225494.jpg",
+      "captions": [
+        "A young man riding a skateboard down a ramp.",
+        "a boy is in the air on a skateboard",
+        "A person is riding a skateboard down a ramp with people around.",
+        "Many boys are skateboarding in a skateboard park.",
+        "The two skateboarders are trying the new tricks they have learned."
+      ]
+    },
+    {
+      "image_id": 462814,
+      "filename": "COCO_val2014_000000462814.jpg",
+      "captions": [
+        "Two women shake hands during the tennis match. ",
+        "THERE ARE TWO WOMEN PLAYING TENNIS ON THE COURT ",
+        "two tennis players on a court with rackets",
+        "Two women on a tennis court shaking hands ",
+        "Two women shake hands over the tennis net."
+      ]
+    },
+    {
+      "image_id": 567565,
+      "filename": "COCO_val2014_000000567565.jpg",
+      "captions": [
+        "a suitcase has a bunch of stickers all over it",
+        "this is a suitcase with stickers on it",
+        "This is a drawing of a suitcase with many stickers on it.",
+        "A bag of luggage that appears to be very old.",
+        "A suitcase has stamps for different countries all over the world."
+      ]
+    },
+    {
+      "image_id": 529256,
+      "filename": "COCO_val2014_000000529256.jpg",
+      "captions": [
+        "Two dogs laying on a bed with a red comforter.",
+        "two dogs laying on top of a bed resting in a room.",
+        "These old pups have found the most comfortable place in the house",
+        "two dogs lay down on a bed with a red sheet ",
+        "A large red bed with two dogs sleeping on top of it."
+      ]
+    },
+    {
+      "image_id": 531622,
+      "filename": "COCO_val2014_000000531622.jpg",
+      "captions": [
+        "A very neatly kept retro 1969s looking living room set.",
+        "A large room features a wall shelf with drawers and a brown sofa and wood coffee table.",
+        "A  large living room area with matching features.",
+        "A living room has a couch, a table, and a small television.",
+        "A living room with television and lights turned on."
+      ]
+    },
+    {
+      "image_id": 375407,
+      "filename": "COCO_val2014_000000375407.jpg",
+      "captions": [
+        "Two dogs are sitting a neatly made colorful bed. ",
+        "two dogs on a bed in a bed room near a window",
+        "Two dogs lay on a bed in a brightly colored bedroom. ",
+        "Two dogs laying on a bed with a teddy bear. ",
+        "Two dogs lounge on a bed in a colorful room."
+      ]
+    },
+    {
+      "image_id": 226629,
+      "filename": "COCO_val2014_000000226629.jpg",
+      "captions": [
+        "A street sign on the side of of a wooded area.",
+        "A black pole has a street sign on it.",
+        "a black and white street sign on a black pole and some trees",
+        "A post with Olmsted sign and trees and shrubs.",
+        "A pole sitting on the side of a road near a forest."
+      ]
+    },
+    {
+      "image_id": 292663,
+      "filename": "COCO_val2014_000000292663.jpg",
+      "captions": [
+        "A white and red bus driving down a street.",
+        "A white and red bus is driving by a grassy hill.",
+        "A transit bus parked in front of an establishment with a long stairwell.",
+        "A city bus parked next to a hill.",
+        "A metro bus parked along the street near a stair way."
+      ]
+    },
+    {
+      "image_id": 47632,
+      "filename": "COCO_val2014_000000047632.jpg",
+      "captions": [
+        "A broken bathroom with a white sink and toilet.",
+        "A white sink sitting next to a white toilet.",
+        "a very dirty sink besides a toilet in a room",
+        "A bathroom sink and toilet are in a black setting.",
+        "White porcelain sink with one faucet and white porcelain toilet in abandoned or demolished building."
+      ]
+    },
+    {
+      "image_id": 432570,
+      "filename": "COCO_val2014_000000432570.jpg",
+      "captions": [
+        "A vase of flowers is sitting by a window.",
+        "A vase of roses dwarfed between two large planters sits in a window.",
+        "A vase with flowers sitting in front of a window.",
+        "A small pot of flowers between two larger potted plants.",
+        "Small vase with flowers sits between two large potted plants."
+      ]
+    },
+    {
+      "image_id": 107216,
+      "filename": "COCO_val2014_000000107216.jpg",
+      "captions": [
+        "The water the boat is in is reflecting the sun.",
+        "A tied up boat is reflected in the still water.",
+        "The body of a boat is reflected in the water.",
+        "A picture of a red boat with its reflection in the water making a beautiful abstract design.",
+        "A red, blue and yellow boat sitting in a body of water."
+      ]
+    },
+    {
+      "image_id": 39152,
+      "filename": "COCO_val2014_000000039152.jpg",
+      "captions": [
+        "Children sitting on the floor decorating and putting together kites.",
+        "little kid sitting down and trying to make kites ",
+        "Two children are building paper kites with an adult.",
+        "The kids is doing arts and crafts with each other.",
+        "A group of kids seated on the floor with cello-tape and other items "
+      ]
+    },
+    {
+      "image_id": 448795,
+      "filename": "COCO_val2014_000000448795.jpg",
+      "captions": [
+        "There is a table with chairs and a stove in the room. ",
+        "A table sitting in a kitchen surrounded by white chairs.",
+        "a brightly lit kitchen with the stove, cabinets, and kitchen table",
+        "The kitchen is clean and ready to be used.",
+        "The view of a kitchen from across the room."
+      ]
+    },
+    {
+      "image_id": 544975,
+      "filename": "COCO_val2014_000000544975.jpg",
+      "captions": [
+        "Wild animals grazing near a lagoon surrounded by trees.",
+        "The zebra and the giraffe co exist in this paradise. ",
+        "A zebra with its head down and a giraffe in the background eating from a tree",
+        "A zebra and a giraffe stand in a zoo exhibit. ",
+        "A zebra and a giaraffe looking for food in an open area."
+      ]
+    },
+    {
+      "image_id": 123836,
+      "filename": "COCO_val2014_000000123836.jpg",
+      "captions": [
+        "a giraffe checking out the bark on a tree",
+        "A giraffe in an enclosure reaching for food.",
+        "A giraffe and zebra inside of a zoo enclosure",
+        "A giraffe with it's mouth set on a pole.",
+        "A giraffe and a zebra eating together in a park."
+      ]
+    },
+    {
+      "image_id": 97667,
+      "filename": "COCO_val2014_000000097667.jpg",
+      "captions": [
+        "Many different dishes of food on a table.",
+        "A table topped with plates and bowls filled with food.",
+        "Much food sit on a red checkered table cloth",
+        "a person with a jacket sitting at a table filled with food",
+        "This table has a variety of breads, fruits, and vegetables."
+      ]
+    },
+    {
+      "image_id": 192932,
+      "filename": "COCO_val2014_000000192932.jpg",
+      "captions": [
+        "a woman is standing in the snow on skies",
+        "The person is standing on snow on ski's",
+        "a woman on skiis going down part of the hill",
+        "A cross country skier on a trail, smiling.",
+        "The skier is posing in front of the trees."
+      ]
+    },
+    {
+      "image_id": 19443,
+      "filename": "COCO_val2014_000000019443.jpg",
+      "captions": [
+        "a motorcycle is hanging in the air with plants on it",
+        "The motorcycle was used for decoration by the water.",
+        "A motorcycle that has been turned into a statue",
+        "A gateway with a motorcycle used as its arch.",
+        "A motorcycle sitting on top of a fence as decor"
+      ]
+    },
+    {
+      "image_id": 412184,
+      "filename": "COCO_val2014_000000412184.jpg",
+      "captions": [
+        "An airplane parked in front of a small airport.",
+        "A small plane on a run way with a passenger.",
+        "A man looks at the outside of a small plane.",
+        "People climbing in to a light aircraft at a small airport",
+        "a small plane on an air port run way"
+      ]
+    },
+    {
+      "image_id": 125071,
+      "filename": "COCO_val2014_000000125071.jpg",
+      "captions": [
+        "A young man riding a skateboard up a black ramp.",
+        "A skateboarding boy is about to go onto the red skate bar.",
+        "A skateboarder starting a jump on a homemade ramp.",
+        "A person standing on a skateboard and performing a stunt on a platform in the street.",
+        "A man is riding a skateboard up a ramp on a street in front of a truck."
+      ]
+    },
+    {
+      "image_id": 64710,
+      "filename": "COCO_val2014_000000064710.jpg",
+      "captions": [
+        "a person and a dog are standing near some cliffs",
+        "A person walks with a backpack being followed by a dog.",
+        "A hiker and dogs are walking in a canyon.",
+        "A person walks along on a patch of sand near some rocks.",
+        "A person walking across a desert filled surrounded by mountains."
+      ]
+    },
+    {
+      "image_id": 236784,
+      "filename": "COCO_val2014_000000236784.jpg",
+      "captions": [
+        "two dogs laying down on a brown couch",
+        "there are two large dogs sleeping on the couch",
+        "a couple of dogs are laying on a coach",
+        "Two black dogs on a couch sleeping peacefully.",
+        "Two dogs are lying on the brown couch. "
+      ]
+    },
+    {
+      "image_id": 193494,
+      "filename": "COCO_val2014_000000193494.jpg",
+      "captions": [
+        "A bed in a ten with a colorful ceiling.",
+        "a black shirt on a hanger blue curtains a bed and pillow",
+        "Child's bed and colorful quilt surrounded by blue plastic walls.",
+        "A makeshift bedroom is decorated in plastic and cardboard.",
+        "a bed surrounded with plastic for walls and ceiling "
+      ]
+    },
+    {
+      "image_id": 110026,
+      "filename": "COCO_val2014_000000110026.jpg",
+      "captions": [
+        "A car covered in various empty toothpaste tubes.",
+        "The bed of a truck with empty tubes of toothpaste applied to the back and sides, and full of foodstuff and other things.",
+        "A car that has many bottles of toothpaste on it.",
+        "A car is decorated with empty tooth past bottles, dentures, and newspaper.",
+        "A car completely covered by bits of trash in an artistic manner."
+      ]
+    },
+    {
+      "image_id": 340637,
+      "filename": "COCO_val2014_000000340637.jpg",
+      "captions": [
+        "a pink hat and a cellphone on some weaved basket",
+        "A cell phone next to a knitted cell phone cover.",
+        "A small pink beanie hat next to a cell phone.",
+        "A pink winter hat sits next to a cellphone.",
+        "A cell phone sitting next to a pink ski hat."
+      ]
+    },
+    {
+      "image_id": 537991,
+      "filename": "COCO_val2014_000000537991.jpg",
+      "captions": [
+        "a woman in a blue top with headphones and two cellphones",
+        "A woman in blue sweater holding two cellphones while wearing headphones.",
+        "A person holding a phone in each hand and wearing a head set in front  of a Christmas tree.",
+        "A woman wearing headphones looking at some electronics.",
+        "A woman has headphones on and is holding two cell phones."
+      ]
+    }
+  ]
+}
